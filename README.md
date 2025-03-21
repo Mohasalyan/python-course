@@ -1,4 +1,3 @@
-# 🚀 Machine Learning Projects by @Mohasalyan
 # 🚀 Machine Learning & Python Course Projects by @Mohasalyan
 
 ## 🐍 Python Course - Sigma Labs
