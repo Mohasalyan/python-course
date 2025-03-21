@@ -1,4 +1,4 @@
-# 🚀 Machine Learning & Python Course Projects by @Mohasalyan
+# 🚀 Machine Learning & Python Course Projects by @Mohasalyan @Qussay abu snana
 
 ## 🐍 Python Course - Sigma Labs
 
